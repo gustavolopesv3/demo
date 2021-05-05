@@ -1,14 +1,36 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "stock": [
+    {
+      "id": 1,
+      "amount": 99
+    },
+    {
+      "id": 2,
+      "amount": 99
+    },
+    {
+      "id": 3,
+      "amount": 99
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "title": "Sorvete Chocolate 10L",
+      "price": 179.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "Sorvete Morango 10L",
+      "price": 139.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "title": "Sorvete Açai 10L",
+      "price": 219.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    }
+  ]
 }
