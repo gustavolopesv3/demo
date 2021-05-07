@@ -16,99 +16,131 @@
   "products": [
     {
       "id": 1,
-      "title": "Sorvete Chocolate 10L",
-      "price": 179.9,
+      "title": "Sorv Abacate 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
       "id": 2,
-      "title": "Sorvete Morango 10L",
-      "price": 139.9,
+      "title": "Sorv Açai 10L",
+      "price": 80.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
       "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "title": "Sorv Banana 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 4,
+      "title": "Sorv Abacaxi sem pedaços 10L",
+      "price": 80.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 6,
+      "title": "Sorv Coco(sem coco ralado) 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 6,
+      "title": "Sorv Coco(com coco ralado) 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 7,
+      "title": "Sorv Chocolate Branco 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 8,
+      "title": "Sorv Chocolate 10L",
+      "price": 70.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 8,
+      "title": "Sorv Cupuaçú 10L",
+      "price": 70.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 9,
+      "title": "Sorv Flocos 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 10,
+      "title": "Sorv Creme 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 11,
+      "title": "Sorv Creme Crocante 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 11,
+      "title": "Sorv Creme Crocante 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 12,
+      "title": "Sorv Leite 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 13,
+      "title": "Sorv Leite Condensado 10L",
+      "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
     {
-      "id": 3,
-      "title": "Sorvete Açai 10L",
-      "price": 219.9,
+      "id": 14,
+      "title": "Sorv Gostas de Chocolate 10L",
+      "price": 70.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
-    }
+    },
+    {
+      "id": 15,
+      "title": "Sorv Maracujá 10L",
+      "price": 60.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "title": "Sorv Maracujá 10L",
+      "price": 60.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "title": "Sorv Morango 10L",
+      "price": 60.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "title": "Sorv Nata com Biscoito 10L",
+      "price": 65.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "title": "Sorv Nata com Goiabada 10L",
+      "price": 65.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
+    },
+    
+    
   ]
 }
