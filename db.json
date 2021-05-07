@@ -56,13 +56,7 @@
     {
       "id": 12,
       "amount": 99
-    },
-    
-    {
-      "id": 13,
-      "amount": 99
-    },
-    
+    },    
     {
       "id": 14,
       "amount": 99
@@ -80,11 +74,6 @@
     
     {
       "id": 17,
-      "amount": 99
-    },
-    
-    {
-      "id": 18,
       "amount": 99
     },
     {
@@ -173,12 +162,7 @@
       "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
     },
-    {
-      "id": 13,
-      "title": "Sorv Creme Crocante 10L",
-      "price": 60.00,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
-    },
+
     {
       "id": 14,
       "title": "Sorv Leite 10L",
@@ -199,12 +183,6 @@
     },
     {
       "id": 17,
-      "title": "Sorv Maracujá 10L",
-      "price": 60.00,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
-    },
-    {
-      "id": 18,
       "title": "Sorv Maracujá 10L",
       "price": 60.00,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MAYgdJY3yrQQIDHXYwBVxjIYNwkLIJMmyQ&usqp=CAU"
